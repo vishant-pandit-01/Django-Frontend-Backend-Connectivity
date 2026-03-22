@@ -4,7 +4,6 @@
 
 This project demonstrates how to connect **Python Django backend** with **HTML & CSS frontend**.
 It also includes a simple **Style interface** to showcase UI integration and template rendering.
-
 ---
 ## 🛠️ Tech Stack
 
@@ -38,7 +37,6 @@ project/
 ```
 
 ---
-
 ## 🎯 Learning Outcomes
 
 * How Django connects with frontend templates
@@ -47,13 +45,10 @@ project/
 * Understanding project & app structure in Django
 
 ---
-
 ## 🤝 Contributing
 
 Feel free to fork this repository and improve the project.
-
 ---
-
 ## 📧 Contact
 
 Created by **Vishant Pandit**
