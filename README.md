@@ -6,16 +6,13 @@ This project demonstrates how to connect **Python Django backend** with **HTML &
 It also includes a simple **Style interface** to showcase UI integration and template rendering.
 
 ---
-
 ## 🛠️ Tech Stack
 
 * 🐍 Python
 * 🌐 Django
 * 🎨 HTML5
 * 🎨 CSS3
-
 ---
-
 ## 📂 Project Features
 
 * Django project setup and configuration
@@ -24,7 +21,6 @@ It also includes a simple **Style interface** to showcase UI integration and tem
 * Clean frontend-backend connectivity
 
 ---
-
 ## 📁 Project Structure
 
 ```
